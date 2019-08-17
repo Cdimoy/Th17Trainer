@@ -5,6 +5,8 @@ Trainter program for Touhou 17 WBaWC
 <b>Requires administrator privileges to work correctly</b>
 <br>
 Another simple trainer program made with C# and WinForms, nothing fancy.<br>
+Then game is detected, "th17.exe" label turns green.
+  
 Has three options:
 <ul>
   <li>Immportality</li>
